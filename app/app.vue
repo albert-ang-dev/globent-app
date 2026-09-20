@@ -3,7 +3,13 @@
 </script>
 
 <template>
-    
+  <TheNavbar />
+  <HeroSection />
+  <ProblemSection />
+  <HowItWorks />
+  <FeaturesSection />
+  <PricingSection />
+  <TheFooter />
 </template>
 
 <style scoped>
