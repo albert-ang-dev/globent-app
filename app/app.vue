@@ -1,6 +1,11 @@
+<script setup>
+  const nuxtAppName = ref('Globent App');
+</script>
+
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+    
 </template>
+
+<style scoped>
+
+</style>
